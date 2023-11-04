@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MykolaBondar.github.io/goit-js-hw-08",
+  "homepage": "https://MykolaBondar.github.io/goit-js-hw-08#readme",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/MykolaBondar/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://MykolaBondar.github.io/goit-js-hw-08/issues"
